@@ -1,6 +1,6 @@
-[![Header](https://github.com/Krutov777/Krutov777/blob/main/assets/header2.gif)](https://www.youtube.com/watch?v=buFSpomkrW4&ab_channel=%D0%9C%D1%83%D0%B2%D0%B8%D0%A0%D0%B0%D0%B9%D0%B4%D0%B5%D1%80)
+[![Header](https://github.com/Krutov777/Krutov777/blob/main/assets/header2.gif)](https://www.youtube.com/watch?v=buFSpomkrW4&ab_channel=%D0%9C%D1%83%D0%B2%D0%B8%D0%A0%D0%B0%D0%B9%D0%B4%D0%B5%D1%80)[![Header2](https://github.com/Krutov777/Krutov777/blob/main/assets/header3.gif)](https://www.youtube.com/watch?v=X4bg4Q63kJQ&ab_channel=weroslawa)
 
-#### My name is Matthew McConaughey and I'm a third-year student in SUAI and beginner Software Engeneer.
+#### My name is Matthew McConaughey and I'm a third-year student in SUAI and beginner Software Engeneer. One star - plus 5 years to mom's life.
 
 ### Languages and Tools
 ![Python3](https://img.shields.io/badge/-Python3-0000ff?style=for-the-badge&logo=Python)
