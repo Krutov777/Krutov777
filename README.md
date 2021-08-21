@@ -14,3 +14,5 @@
 [![Hexlet](https://img.shields.io/badge/-hexlet-white?style=for-the-badge&logo=Hexlet)](https://ru.hexlet.io/u/matthew_mcconaughey)
 [![Instagram](https://img.shields.io/badge/-instagram-yellow?style=for-the-badge&logo=instagram)](https://www.instagram.com/guillermo_krutov/)
 [![Code wars](https://img.shields.io/badge/-code_wars-important?style=for-the-badge&logo=https://www.codewars.com/users/Krutov777/badges/micro)](https://www.codewars.com/users/Krutov777)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
