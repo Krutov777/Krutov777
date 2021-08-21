@@ -1,6 +1,6 @@
-[![Header](https://github.com/Krutov777/Krutov777/blob/main/assets/header.gif)](https://www.youtube.com/watch?v=buFSpomkrW4&ab_channel=%D0%9C%D1%83%D0%B2%D0%B8%D0%A0%D0%B0%D0%B9%D0%B4%D0%B5%D1%80)
+[![Header](https://github.com/Krutov777/Krutov777/blob/main/assets/header2.gif)](https://www.youtube.com/watch?v=buFSpomkrW4&ab_channel=%D0%9C%D1%83%D0%B2%D0%B8%D0%A0%D0%B0%D0%B9%D0%B4%D0%B5%D1%80)
 
-## I'm a third-year student in SUAI and beginner Software Engeneer
+#### My name is Matthew McConaughey and I'm a third-year student in SUAI and beginner Software Engeneer.
 
 ### Languages and Tools
 ![Python3](https://img.shields.io/badge/-Python3-0000ff?style=for-the-badge&logo=Python)
@@ -15,4 +15,6 @@
 [![Instagram](https://img.shields.io/badge/-instagram-yellow?style=for-the-badge&logo=instagram)](https://www.instagram.com/guillermo_krutov/)
 [![Code wars](https://img.shields.io/badge/-code_wars-important?style=for-the-badge&logo=https://www.codewars.com/users/Krutov777/badges/micro)](https://www.codewars.com/users/Krutov777)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krutov777&show_icons=true)](https://github.com/Krutov777/github-readme-stats)
+<a href="https://github.com/Krutov777/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Krutov777&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+</a>
