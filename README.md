@@ -1,9 +1,5 @@
-<a href="https://www.youtube.com/watch?v=bIpZA37Eijk&ab_channel=CsabaMajor">
-  <img align="left" alt="Anurag's true detective mm" width="260px" src="https://github.com/Krutov777/temp/blob/main/assets/header2.gif" />
-</a>
-<a href="https://www.youtube.com/watch?v=X4bg4Q63kJQ&ab_channel=weroslawa">
-  <img align="left" alt="Anurag's 3x alright mm" width="260px" src="https://github.com/Krutov777/temp/blob/main/assets/header3.gif" />
-</a>
+[![Header2](https://github.com/Krutov777/Krutov777/blob/main/assets/header3.gif)](https://www.youtube.com/watch?v=X4bg4Q63kJQ&ab_channel=weroslawa)
+
 
 ### My name is Matthew McConaughey and I'm a third-year student in SUAI and beginner Software Engeneer. One star - plus 5 years to mom's life.
 
