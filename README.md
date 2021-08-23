@@ -1,7 +1,7 @@
 [![Header2](https://github.com/Krutov777/Krutov777/blob/main/assets/header3.gif)](https://www.youtube.com/watch?v=X4bg4Q63kJQ&ab_channel=weroslawa)
 
 
-### My name is Matthew McConaughey and I'm a third-year student in SUAI and beginner Software Engeneer. One star - plus 5 years to mom's life.
+#### My name is Matthew McConaughey and I'm a third-year student in SUAI and beginner Software Engeneer. One star - plus 5 years to mom's life.
 
 ### Languages and Tools
 ![Python3](https://img.shields.io/badge/-Python3-0000ff?style=for-the-badge&logo=Python)
